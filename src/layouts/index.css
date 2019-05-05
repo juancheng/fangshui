@@ -1,0 +1,19 @@
+
+.normal {
+  font-family: 微软雅黑, Georgia, sans-serif;
+  background: #f2f2f2;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+img {
+  margin-top: -1px;
+}
